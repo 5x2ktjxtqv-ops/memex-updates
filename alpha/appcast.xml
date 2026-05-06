@@ -4,6 +4,16 @@
         <title>Memex-dev</title>
         <item>
             <title>0.0.0-dev</title>
+            <pubDate>Wed, 06 May 2026 17:14:53 +0800</pubDate>
+            <sparkle:channel>alpha</sparkle:channel>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.0.0-dev</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/releases/Memex-dev-alpha-3.zip" length="14656049" type="application/octet-stream" sparkle:edSignature="Grqy1CQq7hLUY6vuY9R2JCo/lpb/klkndgdvrkBq1MW93MLdPU4LvM1LLLo7r6ndCMRExo5XQty73UrYkXFkDA=="/>
+        </item>
+        <item>
+            <title>0.0.0-dev</title>
             <pubDate>Wed, 06 May 2026 16:31:22 +0800</pubDate>
             <sparkle:channel>alpha</sparkle:channel>
             <sparkle:version>2</sparkle:version>
