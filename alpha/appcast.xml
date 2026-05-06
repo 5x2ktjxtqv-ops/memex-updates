@@ -4,6 +4,23 @@
         <title>Memex-dev</title>
         <item>
             <title>0.0.0-dev</title>
+            <pubDate>Wed, 06 May 2026 19:53:18 +0800</pubDate>
+            <sparkle:channel>alpha</sparkle:channel>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.0.0-dev</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Memex alpha build 6</h2>
+<ul>
+  <li>Stops startup and Settings diagnostics from reading Keychain.</li>
+  <li>Keeps OpenAI key migration for normal incremental updates.</li>
+  <li>Reads the saved key only when saving or replacing it, or when an opted-in OpenAI send needs it.</li>
+</ul>
+]]></description>
+            <enclosure url="https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/releases/Memex-dev-alpha-6.zip" length="14484487" type="application/octet-stream" sparkle:edSignature="TMczJieTGnrtmmT9wgTAmR3Jb+UZYL5WqT3X9vnrKU/nHIh8ZKUcbOvTRFvYbNQ7I2OMSyHOoLLLT5VhmOToDg=="/>
+        </item>
+        <item>
+            <title>0.0.0-dev</title>
             <pubDate>Wed, 06 May 2026 19:36:49 +0800</pubDate>
             <sparkle:channel>alpha</sparkle:channel>
             <sparkle:version>5</sparkle:version>
