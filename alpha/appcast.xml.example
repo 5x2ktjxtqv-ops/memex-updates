@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Memex Alpha Updates (example)</title>
+    <link>https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/appcast.xml</link>
+    <description>
+      Example Sparkle alpha appcast shape only. This file is not a published
+      update feed and contains no usable release item.
+    </description>
+    <language>en</language>
+    <!-- Add real release items only during an approved alpha release process. -->
+  </channel>
+</rss>
