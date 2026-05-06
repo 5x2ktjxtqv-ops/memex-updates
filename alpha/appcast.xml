@@ -4,6 +4,23 @@
         <title>Memex-dev</title>
         <item>
             <title>0.0.0-dev</title>
+            <pubDate>Wed, 06 May 2026 21:18:37 +0800</pubDate>
+            <sparkle:channel>alpha</sparkle:channel>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.0.0-dev</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Memex alpha build 8</h2>
+<ul>
+  <li>Moves alpha/dev OpenAI key storage off macOS Keychain to avoid ad-hoc update ACL prompts.</li>
+  <li>Keeps release builds on Keychain storage.</li>
+  <li>Fails opted-in sends clearly when no local OpenAI key is saved, instead of falling back to mock.</li>
+</ul>
+]]></description>
+            <enclosure url="https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/releases/Memex-dev-alpha-8.zip" length="14486323" type="application/octet-stream" sparkle:edSignature="vEoz7XOC23dvaAVC9XPMY1pL8Z0AzyfEuo50yYatamfFx/Hz691wWYSmuauXiDDwWySvusl1YCR+OrO6AdxBAw=="/>
+        </item>
+        <item>
+            <title>0.0.0-dev</title>
             <pubDate>Wed, 06 May 2026 21:03:23 +0800</pubDate>
             <sparkle:channel>alpha</sparkle:channel>
             <sparkle:version>7</sparkle:version>
