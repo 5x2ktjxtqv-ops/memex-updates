@@ -4,6 +4,23 @@
         <title>Memex-dev</title>
         <item>
             <title>0.0.0-dev</title>
+            <pubDate>Wed, 06 May 2026 19:36:49 +0800</pubDate>
+            <sparkle:channel>alpha</sparkle:channel>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.0.0-dev</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Memex alpha build 5</h2>
+<ul>
+  <li>Fixes OpenAI API key binding after the latest alpha update.</li>
+  <li>Preserves existing OpenAI keys across normal incremental updates.</li>
+  <li>Reads Keychain status non-interactively so setup diagnostics do not block the app window.</li>
+</ul>
+]]></description>
+            <enclosure url="https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/releases/Memex-dev-alpha-5.zip" length="14484571" type="application/octet-stream" sparkle:edSignature="jPilnCFA1rCa9a2ZW0uRbsfBlEU37BAtIyRAfqaXjRnUx3k8xGt0YlVx6br5LgxBjMC5XG9TyC0nycw/AEUtBA=="/>
+        </item>
+        <item>
+            <title>0.0.0-dev</title>
             <pubDate>Wed, 06 May 2026 18:56:56 +0800</pubDate>
             <sparkle:channel>alpha</sparkle:channel>
             <sparkle:version>4</sparkle:version>
