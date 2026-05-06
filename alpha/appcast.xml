@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Memex-dev</title>
+        <item>
+            <title>0.0.0-dev</title>
+            <pubDate>Wed, 06 May 2026 15:08:17 +0800</pubDate>
+            <sparkle:channel>alpha</sparkle:channel>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.0.0-dev</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/releases/Memex-dev-alpha.zip" length="4588947" type="application/octet-stream" sparkle:edSignature="o1P38IA94Vn+jeF8g9PVFOCyIQTJ9C7REMYlqzP4VcgV9IhHQL8w2yUXPsu5/J7WdPE3dix70XAeFPDgVognBw=="/>
+        </item>
+    </channel>
+</rss>
