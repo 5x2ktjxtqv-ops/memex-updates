@@ -4,6 +4,29 @@
         <title>Memex-dev</title>
         <item>
             <title>0.0.0-dev</title>
+            <pubDate>Sun, 10 May 2026 19:00:02 +0800</pubDate>
+            <sparkle:channel>alpha</sparkle:channel>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.0.0-dev</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Memex alpha build 13</h2>
+<ul>
+  <li>Republishes the current model-routing alpha so Sparkle clients can pick up a fresh update.</li>
+  <li>Includes the build 12 cold-start routing fix and tracked default model mappings.</li>
+</ul>
+]]></description>
+            <enclosure url="https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/releases/Memex-dev-alpha-13.zip" length="14533599" type="application/octet-stream" sparkle:edSignature="h+2MDmFc/YJisacK++DcWrJ9jDk4lx578btuziA8Vldn3cx1TGpeOQiiXOYWfBUtIZw1kMsH16EwUS5CqwK7CQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/releases/Memex-dev13-12.delta" sparkle:deltaFrom="12" length="1998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="g2xibsQyTaVQMK/ZHg7NyMu0XdxuYd5josXW817drW2RY1XTsvW1UudinMb09/t7k24018k/wzbgWkI1VHa/Bg=="/>
+                <enclosure url="https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/releases/Memex-dev13-11.delta" sparkle:deltaFrom="11" length="3318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FrYbXMDGIeLwT6w4kUqqL1JEF/eLGi/CiYyAkr6xnP1d+oUmcOQhGSUOqXO5VHzrdmk4avtjFf8coI+F68LqDQ=="/>
+                <enclosure url="https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/releases/Memex-dev13-10.delta" sparkle:deltaFrom="10" length="116366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xrA0JhYZwL/l46D7md/00FgktiyROTNnc0XIywjPPyceOmBSuipdT5gouAX09EYv08ec8emJY+ugK4dCaJ1XAQ=="/>
+                <enclosure url="https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/releases/Memex-dev13-9.delta" sparkle:deltaFrom="9" length="234018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qer2Av8soJfB+Pzcqa7U/U9VC5H4trcCWFiiwbWlrQDpyEHr0IfmfzRBExfafScuVakA5rlU460f/pQY7ioLDQ=="/>
+                <enclosure url="https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/releases/Memex-dev13-8.delta" sparkle:deltaFrom="8" length="529010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4tpgRS2jZhmWCLEbGqHc6a+Ddr1d5oTl44RmVdgj9rrxuZ4HEoaaELtzhP7vkpkzJ+mSPscmKfaZJdZC0tZhBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.0.0-dev</title>
             <pubDate>Sun, 10 May 2026 18:53:24 +0800</pubDate>
             <sparkle:channel>alpha</sparkle:channel>
             <sparkle:version>12</sparkle:version>
