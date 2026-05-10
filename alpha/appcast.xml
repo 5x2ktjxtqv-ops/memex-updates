@@ -18,6 +18,9 @@
 </ul>
 ]]></description>
             <enclosure url="https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/releases/Memex-dev-alpha-9.zip" length="14459095" type="application/octet-stream" sparkle:edSignature="hxOmMeFRmYGIRrON3+N8E2DFIXoFO5SP6s4XtTj23AB+GLZcxN4JajxBFt8eQrRDBrrMe5NJwfoHxAwDOwtCCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://5x2ktjxtqv-ops.github.io/memex-updates/alpha/releases/Memex-dev9-8.delta" sparkle:deltaFrom="8" length="466998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aoVrZOwcXFLGLVnz5pgbajxLWtCM9qt5kJTgSp38Ay2a3DIstCzIITrSQjcR3RW8OFq08LWmzRx18UhLu425BQ=="/>
+            </sparkle:deltas>
         </item>
         <item>
             <title>0.0.0-dev</title>
